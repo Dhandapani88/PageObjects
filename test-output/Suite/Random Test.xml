@@ -4,6 +4,6 @@
   <testcase name="Framework_001" time="35.722" classname="automationFramework.Framework_001"/>
   
   
-  HI THIS IS TEST
+  HI THIS IS TEST again
   <testcase name="f" time="36.877" classname="automationFramework.Framework_002"/>
 </testsuite> <!-- Random Test -->
